@@ -1,0 +1,19 @@
+.employee_list{
+    flex: 4;
+    box-shadow: -1px 1px 5px 3px rgba(179,173,32,0.56) !important;
+    -webkit-box-shadow: -1px 1px 5px 3px rgba(179,173,32,0.56) !important;
+    -moz-box-shadow: -1px 1px 5px 3px rgba(179,173,32,0.56) !important;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 22px;
+    justify-content: center;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.widget_table{
+    /* border: 1px solid #000; */
+    margin-top: 40px;
+    box-shadow: -1px 1px 5px 3px rgba(179,173,32,0.56);
+    -webkit-box-shadow: -1px 1px 5px 3px rgba(179,173,32,0.56);
+    -moz-box-shadow: -1px 1px 5px 3px rgba(179,173,32,0.56);
+}

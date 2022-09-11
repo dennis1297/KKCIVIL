@@ -1,0 +1,36 @@
+.btn-modal {
+    padding: 10px 20px;
+    display: block;
+    margin: 100px auto 0;
+    font-size: 18px;
+}
+
+.modal, .overlay {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+.overlay {
+    background: rgba(49,49,49,0.8);
+}
+
+.btn_apply{
+    float: right;
+    width: 30%;
+    height: 10%;
+    padding: 10px;
+    border: none;
+    background-color: #ddae40;
+    color: #fff;
+    border-radius: 10px;
+}
+.btn_apply Button:hover{
+    background-color: #ddae40 !important;
+    columns: #fff;
+    border-color: #ddae40 !important;
+}
